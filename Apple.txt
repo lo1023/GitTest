@@ -1,5 +1,5 @@
 Apple gittest2 Modify
 2020/12/16 gittest에서 수정
 apple Modify 2020-12-16
-20201216 수정 한번 더
+20201216 GIttest2에서 수정
 gittest에서 다시 수정
